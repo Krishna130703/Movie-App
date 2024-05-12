@@ -1,2 +1,2 @@
 Deployed Link:
-https://stunning-raindrop-714790.netlify.app/
+https://movie-app-movix.netlify.app/
